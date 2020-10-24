@@ -14,11 +14,8 @@ func main() {
 	fmt.Println("A--Celebrate!")
 	fmt.Println("By completing this tutorial, you’ve learned to create a project and make a pull request on GitHub!")
 	fmt.Println(`Created an open source repositor  
-	By completing this tutorial, you’ve learned to 
-	
-	
-	
-	
-	create a project
+	By completing this tutorial, you’ve learned to create a project
 	 and make a pull request on GitHub `)
+
+	fmt.Println("Asqar Programmer")
 }
